@@ -1,0 +1,10 @@
+{
+  "description": "Showcases detailed information and visuals about Disney Linabell, offering fans an engaging introduction to the character and related content.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
